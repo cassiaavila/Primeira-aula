@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                 // O JavaScript de destino
+    "module": "commonjs",             // Usar o sistema de módulos CommonJS
+    "outDir": "./dist",               // Diretório de saída para os arquivos compilados
+    "rootDir": "./src",               // Diretório raiz dos arquivos TypeScript
+    "strict": true,                   // Ativar verificações estritas
+    "esModuleInterop": true           // Melhor compatibilidade com módulos ES
+  }
+}
